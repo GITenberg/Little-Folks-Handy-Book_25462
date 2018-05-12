@@ -1,0 +1,31 @@
+_repo: Little-Folks-Handy-Book_25462
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25462-h/images/icover.jpg
+creator:
+  authors:
+  - agent_name: Beard, Adelia B. (Adelia Belle)
+    alias: Beard, Adelia Belle
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '8087'
+    url: http://www.gutenberg.org/2009/agents/8087
+  - agent_name: Beard, Lina
+    gutenberg_agent_id: '8086'
+    url: http://www.gutenberg.org/2009/agents/8086
+description: ''
+gutenberg_issued: '2008-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Games'
+- !lcsh 'Amusements'
+title: Little Folks' Handy Book
+url: http://www.gutenberg.org/ebooks/25462
